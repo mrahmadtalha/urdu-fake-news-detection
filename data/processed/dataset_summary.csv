@@ -1,0 +1,4 @@
+Dataset,Rows,Language,Missing,Duplicates,Fake,Real
+RUFND Roman Urdu,3800,Roman Urdu,0,0,2000,1800
+Amjad Urdu,4097,Urdu Script,0,0,2455,1642
+Urdu News,10444,Urdu Script,4,0,4104,6340
