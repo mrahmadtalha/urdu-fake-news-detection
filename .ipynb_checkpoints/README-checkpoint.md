@@ -153,6 +153,24 @@ Place downloaded files in `data/raw/` and rename:
 05_model_roman_urdu.ipynb
 06_cross_evaluation.ipynb
 ```
+## Live Demo
+A Streamlit web application is included with two features:
+
+**Dashboard Tab**
+- Dataset distribution charts
+- Model performance comparison tables
+- Cross-script evaluation results and key finding
+
+**Live Prediction Tab**
+- Enter any news text in Urdu script or Roman Urdu
+- Real-time fake news detection using trained Linear SVM models
+- Tip: Use 2-3 sentences minimum for accurate predictions
+
+### Run the app locally
+```bash
+streamlit run app.py
+```
+
 ## Technologies Used
 
 - **Python 3.12**
